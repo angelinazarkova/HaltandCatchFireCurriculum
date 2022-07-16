@@ -27,4 +27,4 @@ Episode summaries A link to summaries of the episodes that should be watched pri
 
 
 Curriculum and website designed by Ashley Blewer.
-see also ↠ source code & site metadata
+
